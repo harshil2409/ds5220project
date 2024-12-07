@@ -71,7 +71,7 @@ This project implements a **Real-Time Image Captioning System** using the **Flic
 ---
 
 ## **Dependencies**
-- Python 3.x
+- Python 3.11.7
 - TensorFlow
 - Pandas
 - Matplotlib
